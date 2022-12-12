@@ -5,3 +5,6 @@ A Simple Java Chat Application
 - Once the server is running, the client file can be initated
 - the clients will connect to the server, and can chat in the chat room
 - clients can also private message each other by types /(client-name)
+
+
+* this is was originally created in 2020, uploading it to github to save
